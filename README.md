@@ -2,8 +2,7 @@
 Shai shalev
 First comment
 
-<<<<<<< HEAD
+HEAD
 This is a change on newbranch
-=======
 testbranch change
->>>>>>> main
+main
